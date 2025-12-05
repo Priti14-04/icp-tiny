@@ -5,11 +5,6 @@ TinyBlog allows users to create, edit, publish, and read blogs with an elegant b
 
 ---
 
-## 🌐 Live Demo
-👉 [Deployed Link](https://tiny-blog-assignment.onrender.com)  
-
-
----
 
 ## ✨ Features
 
