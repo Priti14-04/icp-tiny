@@ -76,14 +76,14 @@ const SignUp = () => {
 
           <p>
             Already have an account?{" "}
-            <Link to="/login" className="text-blue-500 hover:underline">
+            <Link to="/login" className="text-blue-500 cursor-pointer hover:underline">
               Login
             </Link>
           </p>
 
           <button
             type="button"
-            className="bg-black hover:bg-gray-700 text-white font-semibold py-2 rounded-md transition duration-150 ease-in-out mt-4"
+            className="bg-black hover:bg-gray-700 cursor-pointer text-white font-semibold py-2 rounded-md transition duration-150 ease-in-out mt-4"
             onClick={signUpUser}
           >
             Sign Up
